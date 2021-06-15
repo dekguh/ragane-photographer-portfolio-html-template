@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+$head-font: 'Montserrat', 'Roboto', sans-serif;
+$body-font: 'Roboto', sans-serif;
+
+$font-xl: 3rem; // 49px
+$font-lg: 2.43rem; // 39px
+$font-md: 1.56rem; // 25px
+$font-sm: 1rem; // 16px
+$font-xs: 0.75rem; // 12px
+
+$h1-size: 3rem; // 49px
+$h2-size: 2.43rem; // 39px
+$h3-size: 2rem; // 32px
+$h4-size: 1.56rem; // 25px
+$h5-size: 1.25rem; // 20px
+$h6-size: 1rem; // 16px
+
+$body-size: $font-sm;
